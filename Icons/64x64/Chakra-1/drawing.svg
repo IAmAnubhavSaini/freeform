@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg4152"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 64 64"
+   inkscape:export-filename="/home/iamanubhavsaini/Documents/designs/Chakra-1/black"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs4154" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.3676758"
+     inkscape:cx="19.877485"
+     inkscape:cy="18.885225"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1325"
+     inkscape:window-height="744"
+     inkscape:window-x="41"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4157">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="path4702"
+       sodipodi:sides="12"
+       sodipodi:cx="32.366535"
+       sodipodi:cy="31.930405"
+       sodipodi:r1="17.537109"
+       sodipodi:r2="31.152634"
+       sodipodi:arg1="2.0647377"
+       sodipodi:arg2="1.2649772"
+       inkscape:flatsided="false"
+       inkscape:rounded="0.5"
+       inkscape:randomized="0"
+       d="M 24.052195,47.371323 C 14.470935,53.482529 50.014202,69.433782 41.745796,61.637577 30.181987,50.734167 33.323726,40.443625 17.445646,41.145462 6.0924287,41.647292 28.898175,73.233116 25.635627,62.3472 21.07278,47.122666 28.938877,39.781666 14.837138,32.450434 4.754048,27.208422 8.7114911,65.965422 11.329,54.906668 14.989726,39.440412 25.472465,37.015967 16.925617,23.616064 10.814411,14.034805 -5.1368425,49.578072 2.6593633,41.309665 13.562773,29.745857 23.853314,32.887596 23.151478,17.009516 22.649648,5.6562982 -8.9361762,28.462044 1.9497395,25.199496 17.174274,20.63665 24.515274,28.502746 31.846506,14.401007 37.088517,4.3179175 -1.6684818,8.2753605 9.3902715,10.892869 24.856528,14.553595 27.280973,25.036335 40.680876,16.489487 50.262135,10.37828 14.718868,-5.572973 22.987275,2.2232328 34.551083,13.126643 31.409344,23.417184 47.287424,22.715348 58.640642,22.213518 35.834896,-9.3723068 39.097443,1.513609 43.66029,16.738143 35.794194,24.079144 49.895933,31.410376 59.979022,36.652387 56.021579,-2.1046124 53.404071,8.954141 49.743345,24.420398 39.260605,26.844842 47.807453,40.244745 53.918659,49.826005 69.869913,14.282737 62.073707,22.551144 51.170297,34.114953 40.879756,30.973213 41.581592,46.851294 42.083422,58.204511 73.669247,35.398765 62.783331,38.661313 47.558797,43.22416 40.217796,35.358063 32.886564,49.459802 27.644553,59.542892 66.401552,55.585449 55.342799,52.96794 39.876542,49.307214 37.452097,38.824474 24.052195,47.371323 Z"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/iamanubhavsaini/Documents/designs/Chakra-1/fuchsia" />
+  </g>
+</svg>

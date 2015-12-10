@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg5266"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 64 64"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="/home/iamanubhavsaini/Documents/designs/Icons/64x64/Flower-3/white"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs5268" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.1240874"
+     inkscape:cx="38.319161"
+     inkscape:cy="31.57551"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1325"
+     inkscape:window-height="744"
+     inkscape:window-x="41"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5271">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="path5816"
+       sodipodi:sides="6"
+       sodipodi:cx="33.257359"
+       sodipodi:cy="28.367117"
+       sodipodi:r1="28.406643"
+       sodipodi:r2="1.5800796"
+       sodipodi:arg1="2.0354158"
+       sodipodi:arg2="1.2616225"
+       inkscape:flatsided="false"
+       inkscape:rounded="0.5"
+       inkscape:randomized="0"
+       d="M 20.528835,53.762432 C 11.347907,63.86277 41.247569,41.270287 33.738132,29.872277 25.805147,17.831396 18.989991,33.105906 4.9001084,30.04155 -8.4375045,27.140801 26.077991,41.738427 32.194238,29.536059 38.655454,16.645452 22.019762,18.380609 17.628632,4.6462343 13.471948,-8.3548515 18.08778,28.835257 31.713465,28.030899 46.107666,27.181173 36.28713,13.641819 45.985882,2.9718015 55.166811,-7.1285359 25.267148,15.463947 32.776585,26.861956 40.70957,38.902837 47.524726,23.628327 61.614609,26.692684 74.952222,29.593433 40.436726,14.995807 34.320479,27.198175 27.859263,40.088782 44.494955,38.353625 48.886085,52.088 53.04277,65.089085 48.426937,27.898977 34.801253,28.703335 20.407051,29.553061 30.227587,43.092415 20.528835,53.762432 Z"
+       inkscape:transform-center-x="4.7038557"
+       inkscape:transform-center-y="0.031456098"
+       transform="matrix(0.88241131,-0.47047877,0.47047877,0.88241131,-11.108156,22.407059)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
